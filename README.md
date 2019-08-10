@@ -6,7 +6,10 @@ This repo contains my configuration, kexts, etc of my working hackintosh.
 
 List of supported versions:
 
-- macOS Mojave, version 10.14.4 [[master branch]](https://github.com/Hologos/hackintosh-hp-probook-650-g1/tree/master)
+- macOS Mojave
+    - 10.14.6 [(checkout this branch)](https://github.com/Hologos/hackintosh-hp-probook-650-g1/tree/10.14.6)
+    - 10.14.5 [(checkout this branch)](https://github.com/Hologos/hackintosh-hp-probook-650-g1/tree/10.14.5)
+    - 10.14.4 [(checkout this branch)](https://github.com/Hologos/hackintosh-hp-probook-650-g1/tree/10.14.4)
 
 ## Specs
 
