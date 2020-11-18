@@ -1,3 +1,4 @@
 .*
 !/.gitignore
+!/.github/
 EFI*/Clover_Install_Log.txt
