@@ -40,3 +40,9 @@ To install hackintosh on your laptop, follow these 2 guides:
 *More info can be found inside corresponding issue.*
 
 - Clover boot screen has terrible screen resolution ([#1](https://github.com/Hologos/hackintosh-hp-probook-650-g1/issues/1))
+
+## Donation
+
+If you like what I do and you found this repository helpful, you can
+
+<a href="https://www.buymeacoffee.com/hologos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
